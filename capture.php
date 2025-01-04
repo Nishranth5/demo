@@ -11,7 +11,7 @@
 
 ?>
 
-<h1></h1>
+<h1>something went wrong try again later</h1>
 
 <?php
 
